@@ -1,0 +1,21 @@
+body {
+    text-align: center;background-color: antiquewhite;
+}
+.myForm {
+    display: inline-block;
+    
+}
+textarea {
+    /* background-color: red; */
+    font-size: 20px;
+}
+.btn {
+    font-size: 15px;
+}
+hr {
+    width: 30%;
+ }
+ p 
+ {
+    font-weight: bold;
+ }
